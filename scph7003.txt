@@ -1,0 +1,5 @@
+The bios named scph7003.bin in other places is the same as scph5501.bin
+So if you MUST have a scph7003.bin
+Copy and rename scph5501.bin. 
+
+As said they are the same file. No point adding it twice.
